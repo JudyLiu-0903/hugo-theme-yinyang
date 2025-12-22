@@ -1,0 +1,7 @@
+baseURL = "/"
+languageCode = "zh-cn"
+title = "Judy的个人网站"
+theme = "hugo-theme-yinyang"
+
+[params]
+    description = "欢迎来到我的个人网站"
